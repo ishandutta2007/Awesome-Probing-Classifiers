@@ -12,7 +12,11 @@ A probing classifier acts as a targeted structural microscope: it freezes the pr
 The technical framework governing hidden layer diagnostic analysis has transitioned from basic structural layer projections to information-theoretic structural bounds, moving toward causal intervention circuits and monosemantic feature dictionary auditing.
 
 ```mermaid
-[Static Structural Layer Probes (2016)] ───> [Information-Theoretic Control Probes (2020)] ───> [Causal Interchange Interventions (2021-2023)] ───> [Monosemantic Feature Probes (SAEs, Present)](Confounded Representation Blurry Limits)       (Bypassing Model Memorization vs. Capacity)       (Passive Auditing to Active Path Hijacking)       (De-obfuscating Latent Channel Superposition)
+flowchart LR
+    A["Linear Structural Probes (2016)<br/>(Linear Representation Decoding)"]
+    --> B["Information-Theoretic Probes (2020)<br/>(Representation Information Analysis)"]
+    --> C["Causal Intervention Methods (2021–2023)<br/>(Activation-Level Causal Interventions)"]
+    --> D["Monosemantic Feature Probes (SAEs, Present)<br/>(Sparse Feature Decomposition)"]
 ```
 
 *   **The Static Structural Layer Probing Era (~2016–2019)**
@@ -54,7 +58,16 @@ Probing frameworks are strictly categorized based on the mathematical capacity o
 To capture representation parameters smoothly without corrupting model state lines, the diagnostic framework registers non-intrusive forward hooks across target multi-head attention and hidden layers.
 
 ```mermaid
-Probing Classifier Extraction Graph[Input Untrusted Prompt] ───> [Frozen Transformer Encoder/Decoder Graph]│(Register Forward Hook)│▼[Quantified Factual Score] <── [Shallow Linear Probe] <── [Extract Hidden State Activations (h_l)]
+flowchart LR
+
+A["Input Prompt"]
+--> B["Frozen Transformer<br/>(Encoder / Decoder)"]
+
+B --> C["Extract Hidden-State Activations (hₗ)<br/>(Forward Hook)"]
+
+C --> D["Linear Probe"]
+
+D --> E["Predicted Property / Factual Score"]
 ```
 
 *   **Activation Registration Hooks**
