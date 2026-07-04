@@ -124,3 +124,15 @@ Before updating this documentation repository workspace layout, let me know how 
 * I can write a detailed technical explanation focusing on the **mathematics of Causal Interchange Interventions** and how counterfactual activation swapping isolates true causal reasoning structures natively inside hidden lines.
 
 
+
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Probing-Classifiers&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Probing-Classifiers&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Probing-Classifiers&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Probing-Classifiers&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
