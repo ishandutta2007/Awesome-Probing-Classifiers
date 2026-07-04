@@ -3,6 +3,14 @@
 <div align="center">
   <img src="assets/banner.svg" alt="Banner" width="100%">
 </div>
+
+<div align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
+
+<p align="center">
+  <strong>A curated list of awesome probing classifiers, diagnostic frameworks, and interpretability resources for deep neural networks. Explore monosemantic features, structural probing, causal interventions, and more!</strong>
+</p>
 ## 🚀 Probing Classifiers in AI: History, Progression, Variants, & Applications
 
 A **Probing Classifier**—also referred to as a diagnostic classifier, diagnostic probe, or linear probe—is an interpretability and structural diagnostic framework designed to reverse-engineer and decode the latent representation spaces of deep neural networks. While modern foundation models (like Vision Transformers and Large Language Models) operate as highly complex, non-linear "black boxes," their intermediate hidden layers continuously generate dense vector embeddings that compress abstract real-world concepts, syntactic rules, and spatial parameters. 
