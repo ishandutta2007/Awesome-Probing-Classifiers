@@ -1,5 +1,9 @@
-# Awesome-Probing-Classifiers
-## Probing Classifiers in AI: History, Progression, Variants, & Applications
+# 🌟 Awesome-Probing-Classifiers
+
+<div align="center">
+  <img src="assets/banner.svg" alt="Banner" width="100%">
+</div>
+## 🚀 Probing Classifiers in AI: History, Progression, Variants, & Applications
 
 A **Probing Classifier**—also referred to as a diagnostic classifier, diagnostic probe, or linear probe—is an interpretability and structural diagnostic framework designed to reverse-engineer and decode the latent representation spaces of deep neural networks. While modern foundation models (like Vision Transformers and Large Language Models) operate as highly complex, non-linear "black boxes," their intermediate hidden layers continuously generate dense vector embeddings that compress abstract real-world concepts, syntactic rules, and spatial parameters. 
 
@@ -7,7 +11,7 @@ A probing classifier acts as a targeted structural microscope: it freezes the pr
 
 ---
 
-## 1. The Macro Chronological Evolution
+## 🕰️ 1. The Macro Chronological Evolution
 
 The technical framework governing hidden layer diagnostic analysis has transitioned from basic structural layer projections to information-theoretic structural bounds, moving toward causal intervention circuits and monosemantic feature dictionary auditing.
 
@@ -28,7 +32,7 @@ flowchart LR
 
 ---
 
-## 2. Core Functional & Complexity Variants
+## ⚙️ 2. Core Functional & Complexity Variants
 
 Probing frameworks are strictly categorized based on the mathematical capacity of the probe model and the operational tracking layout used across the optimization graph.
 
@@ -41,7 +45,7 @@ Probing frameworks are strictly categorized based on the mathematical capacity o
 
 ---
 
-## 3. The Probing Classifier Execution Matrix
+## 🛠️ 3. The Probing Classifier Execution Matrix
 
 To capture representation parameters smoothly without corrupting model state lines, the diagnostic framework registers non-intrusive forward hooks across target multi-head attention and hidden layers.
 
@@ -65,7 +69,7 @@ D --> E["Predicted Property / Factual Score"]
 
 ---
 
-## 4. Production Engineering Challenges & Mitigations
+## 🚧 4. Production Engineering Challenges & Mitigations
 
 Deploying multi-layer probing matrices over massive multi-billion parameter foundation architectures introduces unique data caching and dimensionality bottlenecks.
 
@@ -76,7 +80,7 @@ Deploying multi-layer probing matrices over massive multi-billion parameter foun
 
 ---
 
-## 5. Frontier Real-World AI Interpretability Applications
+## 🌍 5. Frontier Real-World AI Interpretability Applications
 
 | Application | Details | Year First Used | First Used In (Paper) |
 |---|---|---|---|
@@ -86,7 +90,7 @@ Deploying multi-layer probing matrices over massive multi-billion parameter foun
 
 ---
 
-## References
+## 📚 References
 1. Alain, G., & Bengio, Y. (2016). Understanding intermediate layers using linear classifier probes. *International Conference on Learning Representations (ICLR)*.
 2. Adi, Y., et al. (2016). Fine-grained analysis of sentence embeddings using diagnostic classifiers. *arXiv preprint arXiv:1608.04207*.
 3. Belinkov, Y., & Glass, J. (2019). Analysis methods for automotive sequence-to-sequence models: A survey. *Transactions of the Association for Computational Linguistics*, 7, 49-72.
